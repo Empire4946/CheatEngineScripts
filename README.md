@@ -12,5 +12,4 @@ Cheat Engine is a memory scanning tool. It allows you to access data stored in y
 
 # How do I download Cheat Engine?
 You can either go to https://www.cheatengine.org/
-OR
-Download 7.2 in this github. (Click the "Cheat Engine 7.2" Folder)
+or search up on youtube. (recommend going to the orig website
